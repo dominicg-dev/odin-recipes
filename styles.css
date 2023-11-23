@@ -1,0 +1,29 @@
+* {
+    font-family: "Georgia", "Arial", "serif";
+}
+
+.h-one {
+    text-align: center;
+}
+
+.recipes-container {
+    font-size: large;
+    display: inline-flex;
+}
+
+.recipes {
+    display: inline-block;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    display: block;
+    width: fit-content;
+    text-decoration: none;
+    margin: auto;
+}
